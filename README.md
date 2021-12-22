@@ -4,6 +4,6 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://bing.com
  
--  https://twitter.com
+-  https://m.twitter.com
  
 -  https://reddit.com
