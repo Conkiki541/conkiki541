@@ -8,4 +8,4 @@ This repo is specifically for housing links, to make things a few steps easier.
  
 -  https://reddit.com
 
--  https://pleasedontblock.me
+-  https://lambdatest.com
