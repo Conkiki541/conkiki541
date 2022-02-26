@@ -10,4 +10,4 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://lambdatest.com
 
--  https://womginx.arph.org
+-  https://womginx.arph.org/main/discord.com/login
