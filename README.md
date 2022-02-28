@@ -11,3 +11,5 @@ This repo is specifically for housing links, to make things a few steps easier.
 -  https://lambdatest.com
 
 -  https://hutao.biz
+
+-  https://w.thiswasadollar.xyz/main/discord.com/login
