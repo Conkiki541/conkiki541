@@ -12,4 +12,4 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://hutao.biz
 
--  https://w.thiswasadollar.xyz/main/discord.com/login
+-  https://eval.js.org location.replace('https://w.thiswasadollar.xyz/main/discord.com/login')
