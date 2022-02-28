@@ -12,4 +12,4 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://hutao.biz
 
--  https://w.pleasedontblock.me/main/discord.com/login
+-  https:/w./main/discord.com/login
