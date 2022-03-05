@@ -12,4 +12,4 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://hutao.biz
 
--  https://builtincryptominer.com/main/https://discord.com/login
+-  https://w.builtincryptominer.com/main/https://discord.com/login
