@@ -12,4 +12,4 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://hutao.biz
 
--  https://w.goodsciencehelp.xyz/main/https://discord.com/login
+-  https://w.geohelp.xyz/main/https://discord.com/login
