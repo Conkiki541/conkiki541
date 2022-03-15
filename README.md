@@ -12,4 +12,4 @@ This repo is specifically for housing links, to make things a few steps easier.
 
 -  https://hutao.biz
 
--  https://https://mathcentral.net/w/
+-  https://mathcentral.net/w/
